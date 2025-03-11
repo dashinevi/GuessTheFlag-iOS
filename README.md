@@ -3,6 +3,8 @@
 ## Overview
 Guess The Flag is a game built using SwiftUI. The game presents the user with three randomly selected flags, and they must correctly identify the flag of the given country.
 
+![guess_the_flag](https://github.com/user-attachments/assets/7c3c4e45-96a1-46bd-b9eb-ffddacbcc54e)
+
 ## Features
 - Displays three random flags for the user to choose from.
 - Shows alert with correct and incorrect answers.
